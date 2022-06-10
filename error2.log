@@ -1,0 +1,21 @@
+{
+  service: 'user-service',
+  message: 'hello world',
+  level: 'error',
+  label: 'right meow!',
+  timestamp: '2022-06-10T10:02:21.422Z'
+}
+{
+  service: 'user-service',
+  message: 'hello world',
+  level: 'error',
+  label: 'right meow!',
+  timestamp: '2022-06-10T13:43:18.408Z'
+}
+{
+  service: 'user-service',
+  message: 'hello world',
+  level: 'error',
+  label: 'right meow!',
+  timestamp: '2022-06-10T13:43:26.104Z'
+}
