@@ -1,0 +1,18 @@
+{"level":"info","message":"Hello, Winston!"}
+{"level":"warn","message":"Heads up, Winston!"}
+{"level":"error","message":"Danger, Winston!"}
+{"level":"info","message":"Hello, Winston!"}
+{"level":"warn","message":"Heads up, Winston!"}
+{"level":"error","message":"Danger, Winston!"}
+{"level":"info","message":"Hello, Winston!"}
+{"level":"warn","message":"Heads up, Winston!"}
+{"level":"error","message":"Danger, Winston!"}
+{"level":"info","message":"Hello, Winston!"}
+{"level":"warn","message":"Heads up, Winston!"}
+{"level":"error","message":"Danger, Winston!"}
+{"level":"silly","message":"Trace message, Winston!"}
+{"level":"debug","message":"Debug message, Winston!"}
+{"level":"verbose","message":"A bit more info, Winston!"}
+{"level":"info","message":"Hello, Winston!"}
+{"level":"warn","message":"Heads up, Winston!"}
+{"level":"error","message":"Danger, Winston!"}

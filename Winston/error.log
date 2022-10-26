@@ -40,3 +40,17 @@
   label: 'right meow!',
   timestamp: '2022-06-10T13:43:26.107Z'
 }
+{
+  service: 'user-service',
+  message: 'hello world',
+  level: 'error',
+  label: 'right meow!',
+  timestamp: '2022-10-20T13:57:30.331Z'
+}
+{
+  level: 'info',
+  message: 'Hello distributed error fileszzzwwwwsssaaabbb!',
+  service: 'user-service',
+  label: 'right meow!',
+  timestamp: '2022-10-20T13:57:30.332Z'
+}
