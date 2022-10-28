@@ -2,14 +2,12 @@
   "name": "workshop",
   "version": "1.0.0",
   "description": "",
-  "main": "01.js",
+  "main": "dist/app.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.18.2",
     "fetch": "^1.1.0",
     "fs": "0.0.1-security",
     "http": "0.0.1-security",
@@ -17,4 +15,5 @@
     "node-fetch": "^2.6.7",
     "winston": "^3.7.2"
   }
+
 }
