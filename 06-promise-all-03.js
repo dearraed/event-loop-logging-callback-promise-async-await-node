@@ -8,7 +8,7 @@ const p1 = new Promise((resolve, reject) => {
 const p2 = new Promise((resolve, reject) => {
   setTimeout(() => {
       console.log('The second promise has rejected');
-      reject('Failed');
+      resolve('Failed');
   }, 2 * 1000);
 });
 const p3 = new Promise((resolve, reject) => {
@@ -19,6 +19,6 @@ const p3 = new Promise((resolve, reject) => {
 });
 
 
-Promise.all([p1, p2, p3])
-  .then(console.log) // never execute
-  .catch(console.log);
+  Promise.all([p1, p2, p3])
+  .then(x => console.log("x : ", x)) // never execute
+  .catch(y => console.log("y : ", y));
