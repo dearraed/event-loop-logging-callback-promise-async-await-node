@@ -4,7 +4,7 @@ function one (x) {
     console.log(x);
   }
   
-  //one(1);
+  one(1);
   function two (x, cb) {
     setTimeout(function () {
       console.log(x);
@@ -240,6 +240,6 @@ function square(x){
     x.then(x => { console.log(x); return Promise.resolve(x + 1); })
   }
 
-  twentytwo();
+  //twentytwo();
 
 

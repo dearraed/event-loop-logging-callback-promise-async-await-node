@@ -1,6 +1,7 @@
 interface IUser {
     firstName: string;
     lastName: string;
+    //age?: number;
 }
 
 // doesn't compile because firstName, LastName missing
