@@ -14,4 +14,4 @@ async function getDataFromAPI2() {
     console.log(JSON.stringify(data, null, "\t"))
 }
 
-getDataFrcomAPI2()
+getDataFromAPI2()
